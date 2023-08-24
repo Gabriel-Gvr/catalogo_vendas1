@@ -27,9 +27,13 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     });
 
+ 
+
     // Event listener para o botão de redefinição
     resetButton.addEventListener("click", function () {
       searchInput.value = ""; // Limpa o campo de pesquisa
       showAllItems(); // Mostra todos os itens novamente
+
+    
     });
   });
