@@ -363,7 +363,7 @@ footer .last {
 
 
 /* Responsividade para dispositivos móveis */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   .header-block {
     top: 30%;
     left: 0;
