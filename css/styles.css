@@ -426,7 +426,7 @@ footer .last {
     top: 30%;
     left: 0;
     right: 0;
-    width: 100%;
+    width: 80%;
     padding: 10px;
     text-align: center;
   }
@@ -461,7 +461,7 @@ footer .last {
   .search-button,
   .reset-button {
     max-width: 100%;
-    width: 100%;
+    width: 60%;
   }
 
   .left {
@@ -492,6 +492,8 @@ footer .last {
     align-items: flex-start;
     padding-top: 50px;
   }
+
+  
 
   .card-item {
     width: 100%;
